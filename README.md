@@ -18,7 +18,7 @@ School Projects:
 - [MovieLens Recommendation](https://github.com/pauldoan/movielens-recommendation): Experimenting with recommender algorithms for MovieLens 🎬
 
 Fun JavaScript Apps:
-- [The Approximator](pauldoan.github.io/approximator/): A quirky calculator for when precision isn't key 🧮 ([Code Here!](https://github.com/pauldoan/approximator))
+- [The Approximator](https://pauldoan.github.io/approximator/): A quirky calculator for when precision isn't key 🧮 ([Code Here!](https://github.com/pauldoan/approximator))
 - [Etch-a-Sketch](https://pauldoan.github.io/etch-a-sketch): Digital sketching tool for your inner artist ✍️ ([Code Here!](https://github.com/pauldoan/etch-a-sketch))
 
 Let’s connect and explore new opportunities together!

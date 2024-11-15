@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-I’m Paul Doan, a passionate Data Scientist and Music Artist, leading teams of talented Analysts and Engineers.
+I’m Paul, a passionate Data Scientist, AI Engineer and Music Artist, leading teams of talented Analysts and Engineers.
 
 - 🔭 I'm currently pushing the boundaries of data science and AI in the Crypto Industry
 - 👯 I'm looking to collaborate on fun Tech projects
 - 💬 I'm also creating music that you can find on [Spotify](https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC?si=21be9daf5b0f452e)
 - 📫 Reach out on [linkedin](https://www.linkedin.com/in/doanpaul/)
 
-### Personal Projects
+### Some fun Projects
 
-Data Science and ML:
-- [Spotify Autoplaylists](https://github.com/pauldoan/autoplaylists): Neural Nets for smart playlist generation using Spotify API 🎵
-- [Auto Thumbnails](https://github.com/pauldoan/autothumbnails): Web app for YouTube-like thumbnail generation from audio/video 🎥
+Data Science / ML Apps:
+- [Spotify Autoplaylists App](https://github.com/pauldoan/autoplaylists): Neural Nets for smart playlist generation using Spotify API 🎵
+- [Auto Thumbnails App](https://github.com/pauldoan/autothumbnails): Web app for YouTube-like thumbnail generation from audio/video 🎥
 
 School Projects:
 - [Yelp Recommendation](https://github.com/pauldoan/yelp-recommendation): Recommender system for Yelp dataset 🍽️

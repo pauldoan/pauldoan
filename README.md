@@ -12,6 +12,7 @@ I’m Paul, a passionate Data Scientist, AI Engineer and Music Artist, leading t
 Data Science / ML Apps
 - [Spotify Autoplaylists App](https://autoplaylists.streamlit.app/): Neural Nets for smart playlist generation using Spotify API 🎵 ([Code Here!](https://github.com/pauldoan/autoplaylists))
 - [Auto Thumbnails App](https://autothumbnails-captions.streamlit.app/): Web app for YouTube-like thumbnail generation from audio/video 🎥 ([Code Here!](https://github.com/pauldoan/autothumbnails))
+- [Fun Recommendations Models](https://github.com/pauldoan/spotrec): Some fun experiments wiht a music stremaing dataset! ▶️
 
 School Projects:
 - [Yelp Recommendation](https://github.com/pauldoan/yelp-recommendation): Recommender system for Yelp dataset 🍽️

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m Paul, ML Engineer and Music Artist.
+I’m Paul, ML Engineer @ Spotify and Music Artist.
 
-- 🔭 I'm currently pushing the boundaries of data and AI in the Music Idustry with Spotify
+- 🔭 I'm currently pushing the boundaries of data and AI in the Music Idustry
 - 👯 I'm looking to collaborate on fun Tech projects
 - 💬 I'm also creating music that you can find on [Spotify](https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC?si=21be9daf5b0f452e)
 - 📫 Reach out on [linkedin](https://www.linkedin.com/in/doanpaul/)
